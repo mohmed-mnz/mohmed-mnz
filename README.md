@@ -1,5 +1,15 @@
-<h1 align="center">Hi there! 👋 I'm <a href="flowcv.me/mohamedelmanzalawi" target="_blank">Muhammed Elmanzalawi</a></h1>
-<h3 align="center">Full Stack .NET Developer | Angular | Cloud | Database Enthusiast</h3>
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+  Hey there! I'm <a href="https://flowcv.me/mohamedelmanzalawi" target="_blank">Muhammed Elmanzalawi</a>  
+</h1>
+
+<h3 align="center">
+  🚀 Full Stack .NET Developer | Angular | Cloud ☁️ | Database Enthusiast 🛢️
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&width=750&lines=Passionate+.NET+Developer+%F0%9F%92%BB+;Experienced+in+ASP.NET+Core+%26+Angular+%E2%9C%A8;Cloud+%7C+Azure+%7C+AWS+%E2%9C%85;Loves+Building+Scalable+Solutions+%F0%9F%92%A1" alt="Typing SVG">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohmed-mnz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
