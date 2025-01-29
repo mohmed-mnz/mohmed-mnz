@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Muhammed Elmanzalawi</a></h1>
+<h1 align="center">Hi there! 👋 I'm <a href="flowcv.me/mohamedelmanzalawi" target="_blank">Muhammed Elmanzalawi</a></h1>
 <h3 align="center">Full Stack .NET Developer | Angular | Cloud | Database Enthusiast</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - **Frameworks**: ASP.NET Core, Angular, Node.js
 - **Databases**: SQL Server, Oracle, Redis
 - **Cloud**: Azure, AWS, Docker, Kubernetes
-- **DevOps**: Git, CI/CD, Azure DevOps, Jenkins
+- **DevOps**: Git, Azure DevOps
 
 ---
 
