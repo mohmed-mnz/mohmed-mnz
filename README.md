@@ -8,8 +8,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&width=750&lines=Passionate+.NET+Developer+%F0%9F%92%BB+;Experienced+in+ASP.NET+Core+%26+Angular+%E2%9C%A8;Cloud+%7C+Azure+%7C+AWS+%E2%9C%85;Loves+Building+Scalable+Solutions+%F0%9F%92%A1" alt="Typing SVG">
+  <a href="https://flowcv.me/mohamedelmanzalawi" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+.NET+Developer+%F0%9F%92%BB;🔥+Expert+in+ASP.NET+Core+%26+Angular;☁️+Cloud+%7C+Azure+%7C+AWS+%E2%9C%85;⚡+Building+Scalable+Solutions;💡+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG">
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohmed-mnz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
