@@ -46,9 +46,11 @@
   <a href="https://www.youtube.com/your_channel" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" alt="YouTube">
   </a>
-  <a href="https://flowcv.com/resume/g6cs27mkpc" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/resume.png" alt="Resume">
-  </a>
+ <!-- Resume (FlowCV) -->
+<a style="margin-left: 10px;" target="_blank" href="https://flowcv.com/resume/g6cs27mkpc">
+    <img src="https://img.icons8.com/fluency/40/000000/document.png" alt="Resume">
+</a>
+
 </p>
 
 ---
